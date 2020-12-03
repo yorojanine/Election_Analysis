@@ -57,7 +57,7 @@ to sift through large data, the script can be used to audit other congressional 
 districts, it can narrow into local elections or extend to senatorial districts. The possiblities are endless.
 
 Additionally, in such a pivotal year like 2020, this script can even extend to the presidential election.
-In the events of accused fraud and recounting is demanded, this script becomes invaluable because it can deliver a quick
+In the year of accused fraud and recounting is demanded, this script becomes invaluable because it can deliver a quick
 and concise answer. Voters are no longer left in anticipation, waiting for states, like Nevada, to finish counting because
 the script would have looped through the information. Furthermore, with the automation, 
 we can minimize human error and leave less room for scrutiny.  
